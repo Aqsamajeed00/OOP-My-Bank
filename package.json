@@ -1,5 +1,5 @@
 {
-  "name": "oop-my-bank",
+  "name": "code-with-aqsa-oop-my-bank",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Aqsa Shaikh",
+  "author": "Aqsa Majeed",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^9.3.2"
