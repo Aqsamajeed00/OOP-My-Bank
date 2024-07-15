@@ -2,7 +2,7 @@
 
 import inquirer from "inquirer";
 import chalk from "chalk";
-;
+
 // Bank Account Class 
 class BankAccount {
     constructor(accountNumber, balance) {
