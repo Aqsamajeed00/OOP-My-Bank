@@ -12,6 +12,7 @@
   "author": "Aqsa Majeed",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^5.3.0",
     "inquirer": "^9.3.2"
   },
   "devDependencies": {
